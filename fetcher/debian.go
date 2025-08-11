@@ -196,6 +196,7 @@ func walkDB(dbpath string) (models.DebianJSON, error) {
 		"11": "bullseye",
 		"12": "bookworm",
 		"13": "trixie",
+		"14": "forky",
 	}
 
 	cves := models.DebianJSON{}

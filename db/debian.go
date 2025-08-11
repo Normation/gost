@@ -110,6 +110,7 @@ var debVerCodename = map[string]string{
 	"11": "bullseye",
 	"12": "bookworm",
 	"13": "trixie",
+	"14": "forky",
 }
 
 // GetUnfixedCvesDebian gets the CVEs related to debian_release.status = 'open', major, pkgName.
